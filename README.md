@@ -1,5 +1,7 @@
 Contact Manager Web Api 
 
+This project contains simple rest apis to perform CRUD operations using ASP.net Web Api with appropriate architecture
+
 TOOL
 
   1.VS2017
