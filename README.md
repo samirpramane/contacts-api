@@ -2,7 +2,7 @@ Contact Manager Web Api
 
 This project contains simple rest apis to perform CRUD operations using ASP.net Web Api with appropriate architecture.
 
-TOOL
+Tool
 
   1.Visual Studio 2017
 
@@ -12,7 +12,7 @@ Technology
   2. ASP.NET Web Api
   3. MVC(Template)
   4. Dependency Injection(Ninject)
-  5.SQL Server 2008
+  5. SQL Server 2008
 
 Contact api List
 
