@@ -45,21 +45,29 @@ Application Setup
   
 Solution Structure
 
-  Web Layer
-    Application Service
-    Ninject Configuration
-    AutoMapper
+  1. Web Layer
   
-  Service Layer
-   
-  Data Layer
-    Database Context
-    Database Repository
-    Mapping Configuration
+      Application Service
     
-  Core Layer
-    Database Entity
-    Repository
+      Ninject Configuration
+    
+      AutoMapper
+  
+  2. Service Layer
+   
+  3. Data Layer
+    
+      Database Context
+    
+      Database Repository
+    
+      Mapping Configuration
+    
+  4. Core Layer
+    
+      Database Entity
+      
+      Repository
     
     
   
