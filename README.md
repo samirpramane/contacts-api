@@ -47,27 +47,27 @@ Solution Structure
 
   1. Web Layer
   
-      Application Service
+       Application Service
     
-      Ninject Configuration
+       Ninject Configuration
     
-      AutoMapper
+       AutoMapper
   
   2. Service Layer
    
   3. Data Layer
     
-      Database Context
+       Database Context
     
-      Database Repository
+       Database Repository
     
-      Mapping Configuration
+       Mapping Configuration
     
   4. Core Layer
     
-      Database Entity
+       Database Entity
       
-      Repository
+       Repository
     
     
   
