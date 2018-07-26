@@ -38,10 +38,13 @@ Contact api List
 
 Application Setup
 
-  1.The project is developed using Code First approach.
-    It will create database as application runs.
+  1. The project is developed using Code First approach.
     
-  2.Connection string in Web.Config needs to change for local server.Windows authentication is used in connection string.
+     It will create database as application runs.
+    
+  2. Connection string in Web.Config needs to change for local server.
+  
+     Windows authentication is used in connection string.
   
 Solution Structure
 
